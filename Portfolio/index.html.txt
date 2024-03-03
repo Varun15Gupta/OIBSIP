@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>PORTFOLIO</title>
+        <link rel="stylesheet" href="style.css">
+     </head>
+     <body>
+        <header class="header">
+            <h1 class="title">VARUN GUPTA</h1>
+            <p class="description">15-07-2004</p>
+        </header>
+        <section class="portfolio">
+            <blockquote>
+                I am a 2 nd year Undergraduate student with
+
+coding knowledge in different languages. I am open to learn and adapt to new skills. My Interests are Space, Sports And Chess.
+            </blockquote>
+            <img src="1.jpg" alt="Varun Gupta">
+        </section>
+        <section class="bio">
+            <h2>ABOUT</h2>
+            <p>
+
+Education
+;National Victor Public School
+(2009-2022)
+• Class 10 th
+92%
+• Class 12 th
+75%
+GURU GOBIND SINGH
+INDRAPRASTHA UNIVERSITY
+TRINITY INSTITUTE OF INNOVATION IN PROFESSIONAL STUDIES (2022-26)
+B.Tech in Computer Science Engineering (70.6%)
+Skills
+• C And Python Language
+Ability to train and develop new Skills
+Excellent communications skills.
+Skilled in MS PowerPoint, MS Word, MS Excel
+Excellent attention to details
+Time Management
+Analytical Thinking
+Adaptability and flexibility
+Skilled In SQL, DBMS
+Skilled In C++ & OOPS
+Contact
+Phone +91 9313951253
+Email | 
+varun15072004@gmail.com</p>
+        </section>
+        <hr>
+     </body>
+</html>
