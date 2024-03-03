@@ -18,7 +18,7 @@
 
 coding knowledge in different languages. I am open to learn and adapt to new skills. My Interests are Space, Sports And Chess.
             </blockquote>
-            <img src="1.jpg" alt="Varun Gupta">
+            <img src="me.jpg.jpg" alt="Varun Gupta">
         </section>
         <section class="bio">
             <h2>ABOUT</h2>
