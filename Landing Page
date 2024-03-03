@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Landing Page</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>2024 Indian General Elections</h1>
+    <p>General elections are expected to be held in India between April and May 2024 to elect 543 members of the Lok Sabha.</p>
+  </header>
+  
+  <section class="Features">
+    <h2>Features</h2>
+    <div class="Features">
+      <h3>Parties and Alliances</h3>
+      <p>The politics of India has become increasingly bipolar in the run-up to the 2024 Indian general elections with two major alliances emerging; the incumbent National Democratic Alliance and the opposition Indian National Developmental Inclusive Alliance. There are 6 national parties contesting the 2024 Indian general elections: Bharatiya Janata Party, Indian National Congress, Communist Party of India (Marxist), Bahujan Samaj Party, National People's Party and Aam Aadmi Party with all except the BSP being a part of one of the alliances.</p>
+    </div>
+    <div class="Features">
+      <h3>Electoral system</h3>
+      <p>
+Electoral system
+All 543 elected MPs are elected from single-member constituencies using first-past-the-post voting. The 104th amendment to the constitution abolished the two seats that were reserved for the Anglo-Indian community.
+
+Eligible voters must be Indian citizens, 18 years or older, an ordinary resident of the polling area of the constituency and registered to vote (name included in the electoral rolls), possess a valid voter identification card issued by the Election Commission of India or equivalent. Some people convicted of electoral or other offenses are barred from voting.
+
+Article 83 of the Constitution of India requires elections to the Lok Sabha be held once every five years</p>
+    </div>
+    <div class="Features">
+      <h3> No. of Voters</h3>
+      <p>The electoral roll for the 18th Lok Sabha has 968.8 million registered voters, more than the population of Europe and North and South America combined. Preparation and maintenance of electoral roll and its continuous fitness in the custody of the EC has been the envy of election management bodies across the world.The number is more than the population of Europe, and of the continents of North and South America put together. This multitude of ordinary citizens, above the age of 18, armed with suffrage gifted by the Constitution, will decide the government for next five years. There were 911 million electors in the 2019 elections and 834 million in 2014. In the first election in 1951, the electorate was only 173 million, but still made it the largest election at that time.</p>
+    </div>
+  </section>
+  
+  <footer>
+    <p>Be a True Citizen 
+    Cast Your Vote.</p>
+  </footer>
+</body>
+</html>
